@@ -2,6 +2,8 @@
 
 This project is a tool that automates email collection and sending processes for job seekers.
 
+# Tech Stack
+- Python
 ## Features
 
 - 🔍 Automatic Company Email Finding
