@@ -1,0 +1,45 @@
+# Hassas bilgiler
+*.pdf
+google çift faktör bilgiler.txt
+gmail politikaları.txt
+.google-cookie
+
+# Veri dosyaları
+*.xlsx
+*.json
+*.txt
+!requirements.txt
+!README.md
+
+# Chrome profilleri
+ChromeProfiles/
+backup/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
